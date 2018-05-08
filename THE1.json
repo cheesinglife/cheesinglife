@@ -1,0 +1,397 @@
+[
+  {
+    "country": "Algeria",
+    "value": 1,
+    "code3": "DZA"
+  },
+  {
+    "country": "Argentina",
+    "value": 1,
+    "code3": "ARG"
+  },
+  {
+    "country": "Australia",
+    "value": 35,
+    "code3": "AUS"
+  },
+  {
+    "country": "Austria",
+    "value": 8,
+    "code3": "AUT"
+  },
+  {
+    "country": "Bangladesh",
+    "value": 1,
+    "code3": "BGD"
+  },
+  {
+    "country": "Belarus",
+    "value": 1,
+    "code3": "BLR"
+  },
+  {
+    "country": "Belgium",
+    "value": 8,
+    "code3": "BEL"
+  },
+  {
+    "country": "Brazil",
+    "value": 32,
+    "code3": "BRA"
+  },
+  {
+    "country": "Bulgaria",
+    "value": 1,
+    "code3": "BGR"
+  },
+  {
+    "country": "Canada",
+    "value": 26,
+    "code3": "CAN"
+  },
+  {
+    "country": "Chile",
+    "value": 13,
+    "code3": "CHL"
+  },
+  {
+    "country": "China",
+    "value": 70,
+    "code3": "CHN"
+  },
+  {
+    "country": "Colombia",
+    "value": 5,
+    "code3": "COL"
+  },
+  {
+    "country": "Costa Rica",
+    "value": 1,
+    "code3": "CRI"
+  },
+  {
+    "country": "Croatia",
+    "value": 2,
+    "code3": "HRV"
+  },
+  {
+    "country": "Cyprus",
+    "value": 2,
+    "code3": "CYP"
+  },
+  {
+    "country": "Czech Republic",
+    "value": 13,
+    "code3": "CZE"
+  },
+  {
+    "country": "Denmark",
+    "value": 7,
+    "code3": "DNK"
+  },
+  {
+    "country": "Egypt",
+    "value": 9,
+    "code3": "EGY"
+  },
+  {
+    "country": "Estonia",
+    "value": 2,
+    "code3": "EST"
+  },
+  {
+    "country": "Finland",
+    "value": 9,
+    "code3": "FIN"
+  },
+  {
+    "country": "France",
+    "value": 31,
+    "code3": "FRA"
+  },
+  {
+    "country": "Georgia",
+    "value": 1,
+    "code3": "GEO"
+  },
+  {
+    "country": "Germany",
+    "value": 44,
+    "code3": "DEU"
+  },
+  {
+    "country": "Ghana",
+    "value": 1,
+    "code3": "GHA"
+  },
+  {
+    "country": "Greece",
+    "value": 7,
+    "code3": "GRC"
+  },
+  {
+    "country": "Hungary",
+    "value": 7,
+    "code3": "HUN"
+  },
+  {
+    "country": "Iceland",
+    "value": 2,
+    "code3": "ISL"
+  },
+  {
+    "country": "India",
+    "value": 42,
+    "code3": "IND"
+  },
+  {
+    "country": "Indonesia",
+    "value": 4,
+    "code3": "IDN"
+  },
+  {
+    "country": "Iran",
+    "value": 18,
+    "code3": "IRN"
+  },
+  {
+    "country": "Israel",
+    "value": 6,
+    "code3": "ISR"
+  },
+  {
+    "country": "Italy",
+    "value": 40,
+    "code3": "ITA"
+  },
+  {
+    "country": "Japan",
+    "value": 89,
+    "code3": "JPN"
+  },
+  {
+    "country": "Jordan",
+    "value": 3,
+    "code3": "JOR"
+  },
+  {
+    "country": "Kenya",
+    "value": 1,
+    "code3": "KEN"
+  },
+  {
+    "country": "Kuwait",
+    "value": 1,
+    "code3": "KWT"
+  },
+  {
+    "country": "Latvia",
+    "value": 2,
+    "code3": "LVA"
+  },
+  {
+    "country": "Lebanon",
+    "value": 1,
+    "code3": "LBN"
+  },
+  {
+    "country": "Lithuania",
+    "value": 2,
+    "code3": "LTU"
+  },
+  {
+    "country": "Luxembourg",
+    "value": 1,
+    "code3": "LUX"
+  },
+  {
+    "country": "Malaysia",
+    "value": 9,
+    "code3": "MYS"
+  },
+  {
+    "country": "Mexico",
+    "value": 11,
+    "code3": "MEX"
+  },
+  {
+    "country": "Morocco",
+    "value": 3,
+    "code3": "MAR"
+  },
+  {
+    "country": "Netherlands",
+    "value": 13,
+    "code3": "NLD"
+  },
+  {
+    "country": "New Zealand",
+    "value": 8,
+    "code3": "NZL"
+  },
+  {
+    "country": "Nigeria",
+    "value": 1,
+    "code3": "NGA"
+  },
+  {
+    "country": "Northern Cyprus",
+    "value": 1,
+    "code3": -99
+  },
+  {
+    "country": "Norway",
+    "value": 5,
+    "code3": "NOR"
+  },
+  {
+    "country": "Oman",
+    "value": 1,
+    "code3": "OMN"
+  },
+  {
+    "country": "Pakistan",
+    "value": 10,
+    "code3": "PAK"
+  },
+  {
+    "country": "Peru",
+    "value": 1,
+    "code3": "PER"
+  },
+  {
+    "country": "Philippines",
+    "value": 1,
+    "code3": "PHL"
+  },
+  {
+    "country": "Poland",
+    "value": 12,
+    "code3": "POL"
+  },
+  {
+    "country": "Portugal",
+    "value": 9,
+    "code3": "PRT"
+  },
+  {
+    "country": "Qatar",
+    "value": 1,
+    "code3": "QAT"
+  },
+  {
+    "country": "Republic of Ireland",
+    "value": 9,
+    "code3": "IRL"
+  },
+  {
+    "country": "Romania",
+    "value": 5,
+    "code3": "ROU"
+  },
+  {
+    "country": "Russia",
+    "value": 27,
+    "code3": "RUS"
+  },
+  {
+    "country": "Saudi Arabia",
+    "value": 5,
+    "code3": "SAU"
+  },
+  {
+    "country": "Singapore",
+    "value": 2,
+    "code3": "SGP"
+  },
+  {
+    "country": "Slovakia",
+    "value": 3,
+    "code3": "SVK"
+  },
+  {
+    "country": "Slovenia",
+    "value": 2,
+    "code3": "SVN"
+  },
+  {
+    "country": "South Africa",
+    "value": 8,
+    "code3": "ZAF"
+  },
+  {
+    "country": "South Korea",
+    "value": 27,
+    "code3": "KOR"
+  },
+  {
+    "country": "Spain",
+    "value": 29,
+    "code3": "ESP"
+  },
+  {
+    "country": "Sri Lanka",
+    "value": 1,
+    "code3": "LKA"
+  },
+  {
+    "country": "Sweden",
+    "value": 11,
+    "code3": "SWE"
+  },
+  {
+    "country": "Switzerland",
+    "value": 10,
+    "code3": "CHE"
+  },
+  {
+    "country": "Taiwan",
+    "value": 31,
+    "code3": "TWN"
+  },
+  {
+    "country": "Thailand",
+    "value": 10,
+    "code3": "THA"
+  },
+  {
+    "country": "Tunisia",
+    "value": 2,
+    "code3": "TUN"
+  },
+  {
+    "country": "Turkey",
+    "value": 22,
+    "code3": "TUR"
+  },
+  {
+    "country": "Uganda",
+    "value": 1,
+    "code3": "UGA"
+  },
+  {
+    "country": "Ukraine",
+    "value": 5,
+    "code3": "UKR"
+  },
+  {
+    "country": "United Arab Emirates",
+    "value": 4,
+    "code3": "ARE"
+  },
+  {
+    "country": "United Kingdom",
+    "value": 93,
+    "code3": "GBR"
+  },
+  {
+    "country": "USA",
+    "value": 157,
+    "code3": "USA"
+  },
+  {
+    "country": "Venezuela",
+    "value": 3,
+    "code3": "VEN"
+  }
+]
